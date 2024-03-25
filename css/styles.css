@@ -1,0 +1,91 @@
+/* 
+Author: Lillian Carr
+Date: March 22nd, 2024
+*/
+
+/* CSS Reset */
+body, h1, h2, blockquote, table {
+	margin: 0;
+	padding: 0;
+	morder: 0;
+}
+
+main {
+  padding: 3%;
+  margin: 2%;
+}
+
+/* style rules for body and images */
+body {
+  background-color: #443E83;
+  padding: 5px;
+}
+
+/* Style rules for navigation */
+nav {
+	padding: 5%;
+	margin: 3%;
+}
+
+nav a {
+	padding: 4%;
+	margin: 2%;
+	text-decoration: none;
+	text-align: center;
+	color: #A9A9A9;
+	font-size: 18px;
+}
+
+nav a:hover {
+	font-style: italic;
+	background-color: aliceblue;
+	padding: 2%;
+	border-radius: 5%;
+	width: 5%;
+}
+
+/* Style rules for header */
+h1 {
+	color:#c9c4c4;
+	font-size: 30px;
+	text-align: left;
+	padding: 10px;
+	margin: 3px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+header {
+	padding: 3%;
+	margin: 5%;
+}
+
+/* Style rules for paragraph */
+p {
+	color: #C9C4C4;
+	text-align: left;
+	font-style: oblique;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	padding: 5%;
+	margin: 3%;
+	font-size: 22px;
+}
+
+/* Style rules for footer */
+footer {
+	color: #c9c4c4;
+	padding: 20px 18px;
+	margin: 10px;
+	font-style: oblique;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+footer nav {
+	padding: 5%;
+	margin: 3%;
+	border-spacing: inherit;
+	background-color: blueviolet;
+	border-radius: 12px;
+	font-style: italic;
+	width: 50%;
+	height: 30px;
+}
