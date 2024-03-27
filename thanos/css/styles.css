@@ -90,3 +90,61 @@ footer nav {
 	width: 50%;
 	height: 30px;
 }
+
+/* Style rules for Blockquore */
+blockquote {
+	font-size: 30px;
+	font-style: oblique;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+/* Style rules for form elements */
+#form {
+	padding: 2%;
+	margin: 5%;
+}
+
+table {
+	padding: 3%;
+	margin: 2%;
+}
+
+table input {
+	padding: 5%;
+	margin: 1%;
+}
+
+.email {
+	padding: 5%;
+}
+
+.frmButton {
+	font-size: 0.5em;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding: 2%;
+	border-radius: 14px 14px 14px;
+}
+
+input {
+	padding: 2%;
+	height: 2em;
+	border-radius: 12px 12px 12px;
+}
+
+table td {
+	padding: 3%;
+	margin: 4%;
+	font-size: 2em;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: left;
+}
+
+form {
+	padding: 7%;
+	margin: 2%;
+}
+
+label {
+	padding: 3%;
+	margin: 2%;
+}
